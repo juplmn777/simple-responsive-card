@@ -24,5 +24,9 @@ body {
 
 .card h2 {
   text-align: center;
-  margin: 10px 0 0 0;
+  margin: 20px 0 0 0;
+}
+
+.card p {
+    padding: 20px;
 }
