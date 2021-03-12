@@ -21,3 +21,8 @@ body {
 .card img {
   width: 100%;
 }
+
+.card h2 {
+  text-align: center;
+  margin: 10px 0 0 0;
+}
